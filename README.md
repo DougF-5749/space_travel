@@ -14,7 +14,7 @@ This an ongoing project is focused on **practicing SQL and database design** by 
 - **Planetary Motion Consideration**: Account for the changing relative positions of planets over time when determining travel feasibility and duration.
 
 ## Technology Stack
-- **Database**: SQL (PostgreSQL/MySQL)
+- **Database**: SQL (PostgreSQL)
 - **Data Analysis & Calculation**: Python with Astropy
 - **Backend**: TBD (for possible future API development)
 - **Frontend**: Future consideration (Vue.js or React)
