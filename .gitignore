@@ -1,0 +1,7 @@
+# Ignore any directory whose name contains '__pycache__'
+**/*__pycache__*
+# Ignore any directory whose name contains 'venv'
+**/*venv*
+
+.env
+
